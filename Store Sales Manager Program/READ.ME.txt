@@ -1,0 +1,14 @@
+You can test the program yourself.
+Currently there are not added accounts on it so you might have to add yours :)
+
+for barcodes you have 100001 - 100010
+all items in inventory have been set to available
+
+for receipts you have 100000 - 100007 currently but it autoincrements as you 
+process more transactions
+
+steps.
+1. Login as admin
+2. Add you test accounts and transact all the way ;)
+
+You can add more features if you want!
